@@ -10,4 +10,16 @@ pinned: false
 license: creativeml-openrail-m
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+🚀Check out the configuration reference at : https://huggingface.co/docs/hub/spaces-config-reference
+
+🚀Huggingface space : https://huggingface.co/spaces/prithivMLmods/Airbnb-NYC-Maps
+
+🚀To Clone Just Install Git Past the Command : git clone https://huggingface.co/spaces/prithivMLmods/Airbnb-NYC-Maps
+
+![alt text](assets/airbnb.png)
+
+.
+
+.
+
+.
