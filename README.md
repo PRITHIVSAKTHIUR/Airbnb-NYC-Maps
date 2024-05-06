@@ -16,6 +16,8 @@ license: creativeml-openrail-m
 
 🚀To Clone Just Install Git Past the Command : git clone https://huggingface.co/spaces/prithivMLmods/Airbnb-NYC-Maps
 
+📂/sample.img
+
 ![alt text](assets/airbnb.png)
 
 .
