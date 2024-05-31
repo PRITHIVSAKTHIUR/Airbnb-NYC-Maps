@@ -10,6 +10,8 @@ pinned: false
 license: creativeml-openrail-m
 ---
 
+![alt text](assets/18.png)
+
 🚀Check out the configuration reference at : https://huggingface.co/docs/hub/spaces-config-reference
 
 🚀Huggingface space : https://huggingface.co/spaces/prithivMLmods/Airbnb-NYC-Maps
